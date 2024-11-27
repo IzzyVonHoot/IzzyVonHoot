@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IzzyVonHoot, but you can call me Izzy
-- 👀 I’m interested in data analysis and visualisation, especially in the area of business process management (BPM)
+- 👋 Hi, I’m @connor-dezutti, but you can just call me Connor.
+- 👀 I’m interested in data analysis and visualisation, especially in the area of business process management (BPM).
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on intermediate-level Python and SQL projects
 - 😄 Pronouns: He/They
