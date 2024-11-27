@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on intermediate-level Python and SQL projects
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: This username ties all the way back to a username I used while playing Diablo 2 online in the early 2000s.
+- ⚡ Fun fact: I know a foolproof method for getting rid of hiccups in under 10 seconds, and it works every time.
 
 <!---
 IzzyVonHoot/IzzyVonHoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
